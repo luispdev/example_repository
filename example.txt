@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a content for this file.
 
 Added a new line.
@@ -5,3 +6,6 @@ Added a new line.
 This is another new line.
 
 Added this new line.
+=======
+This is a content for this file.
+>>>>>>> parent of 6155edf (Added another line)
