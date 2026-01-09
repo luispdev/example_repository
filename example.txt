@@ -1,1 +1,5 @@
 This is a content for this file.
+
+Added a new line.
+
+This is another new line.
